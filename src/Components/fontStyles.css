@@ -1,0 +1,26 @@
+.myFont{
+    font-family: 'Poppins', sans-serif;
+}
+/* .myFontItalics{
+    font-family: 'Playfair Display', serif;
+} */
+.myFontItalics{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.munna{
+    background-size: contain;
+
+    
+    background-image:url('/public/munna.jpg');
+}
+.robin{
+    background-size: contain;
+
+    
+    background-image:url('/public/ROBINJUSTIN.jpg');
+}
+
+.backgroundColor{
+   background:  #d3d7d2;
+}
